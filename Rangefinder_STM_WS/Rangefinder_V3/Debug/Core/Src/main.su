@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm4.h:1657:22:__NVIC_SetPriorityGrouping	24	static
+../Core/Src/main.c:106:5:main	8	static
+../Core/Src/main.c:212:6:SystemClock_Config	88	static
+../Core/Src/main.c:259:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:297:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:346:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:377:13:MX_DMA_Init	16	static
+../Core/Src/main.c:395:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:444:6:StartLidarTask	64	static
+../Core/Src/main.c:507:6:StartOledTask	24	static
+../Core/Src/main.c:534:6:StartGraphTask	104	static
+../Core/Src/main.c:584:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:601:6:Error_Handler	4	static,ignoring_inline_asm

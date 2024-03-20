@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1a7ff774-b73f-44dc-80af-cc4169dc627d)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 34.29 48.26) (size 104.14 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6680126b-7f85-43b7-9d8b-096577af4c5b)
+    (property "Sheetname" "Power Supply" (at 34.29 47.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "powersupply.kicad_sch" (at 34.29 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Rangefinder"
+        (path "/1a7ff774-b73f-44dc-80af-cc4169dc627d" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 167.64 49.53) (size 100.33 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 767711bd-a3e4-4e6e-85d0-0a28927f2a79)
+    (property "Sheetname" "Processor" (at 167.64 48.8184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "processor.kicad_sch" (at 167.64 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Rangefinder"
+        (path "/1a7ff774-b73f-44dc-80af-cc4169dc627d" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

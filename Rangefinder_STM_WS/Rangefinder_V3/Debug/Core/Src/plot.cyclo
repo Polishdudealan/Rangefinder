@@ -1,0 +1,6 @@
+../Core/Src/plot.c:15:5:pop	3
+../Core/Src/plot.c:31:5:pushback	3
+../Core/Src/plot.c:50:9:float_to_pixel	1
+../Core/Src/plot.c:56:6:draw_axes	1
+../Core/Src/plot.c:72:6:clear_graph	1
+../Core/Src/plot.c:80:5:calculate_graph	2

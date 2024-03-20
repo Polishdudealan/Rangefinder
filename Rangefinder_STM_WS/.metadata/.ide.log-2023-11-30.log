@@ -1,0 +1,1210 @@
+2023-12-01 00:15:12,890 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:16:25,020 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:16:30,925 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:16:36,717 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 905417880 Bytes (1073741824)
+2023-12-01 00:16:36,794 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 921208712 Bytes (1073741824)
+2023-12-01 00:16:37,489 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 954700952 Bytes (1073741824)
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:16:37,815 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:16:37,816 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:16:37,832 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:16:37,832 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:16:37,832 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:16:37,832 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:16:37,832 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:16:37,832 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:16:37,832 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:16:37,832 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:16:37,833 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:16:37,834 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:16:38,015 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:16:38,481 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:16:38,502 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:16:38,580 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:16:38,736 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:16:38,745 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:16:38,827 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:16:38,830 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:16:38,888 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:16:38,891 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:16:38,961 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:16:38,965 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:16:39,017 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:16:39,021 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:16:39,080 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:16:39,084 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:16:39,136 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:16:39,140 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:16:39,194 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:16:39,198 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:16:39,250 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:16:39,254 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:16:39,311 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:16:39,318 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:16:39,327 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:16:39,411 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:16:39,417 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:16:39,463 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:16:39,468 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:16:39,515 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:16:39,520 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:16:39,570 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:16:39,583 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:16:39,634 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:16:39,639 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:16:39,688 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:16:39,699 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:16:39,754 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:16:39,760 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:16:39,811 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:16:39,817 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:16:39,865 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:16:39,879 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:16:39,955 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:16:39,969 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:16:40,021 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:16:40,035 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:16:40,119 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:16:40,122 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:16:40,169 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:16:40,204 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:16:40,428 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:16:40,453 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:16:40,555 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:16:40,577 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:16:40,734 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:16:40,743 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:16:40,806 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:16:40,820 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:16:40,889 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:16:40,908 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:16:40,991 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:16:41,017 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:16:41,018 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:16:41,033 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:16:41,111 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:16:41,125 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:16:41,264 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:16:42,187 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 447mS.
+2023-12-01 00:16:42,194 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:16:42,346 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:16:43,966 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1771mS.
+2023-12-01 00:16:43,967 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 00:16:43,975 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:18:21,951 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:18:23,984 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 777407176 Bytes (1073741824)
+2023-12-01 00:18:24,052 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 793135816 Bytes (1073741824)
+2023-12-01 00:18:26,957 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 863390408 Bytes (1073741824)
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:18:27,261 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:18:27,262 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:18:27,275 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:18:27,275 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:18:27,275 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:18:27,275 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:18:27,276 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:18:27,389 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:18:27,497 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:18:27,520 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:18:27,628 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:18:27,740 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:18:27,748 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:18:27,840 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:18:27,844 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:18:27,899 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:18:27,903 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:18:27,950 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:18:27,954 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:18:28,002 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:18:28,006 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:18:28,083 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:18:28,089 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:18:28,188 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:18:28,192 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:18:28,261 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:18:28,266 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:18:28,318 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:18:28,323 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:18:28,377 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:18:28,384 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:18:28,394 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:18:28,491 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:18:28,496 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:18:28,549 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:18:28,555 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:18:28,604 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:18:28,610 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:18:28,661 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:18:28,673 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:18:28,731 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:18:28,735 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:18:28,785 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:18:28,797 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:18:28,850 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:18:28,855 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:18:28,904 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:18:28,909 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:18:28,956 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:18:28,970 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:18:29,068 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:18:29,083 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:18:29,155 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:18:29,174 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:18:29,259 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:18:29,263 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:18:29,325 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:18:29,349 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:18:29,488 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:18:29,494 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:18:29,562 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:18:29,583 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:18:29,678 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:18:29,682 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:18:29,729 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:18:29,741 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:18:29,797 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:18:29,814 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:18:29,903 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:18:29,923 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:18:29,923 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:18:29,939 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:18:30,004 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:18:30,018 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:18:30,157 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:18:30,958 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 455mS.
+2023-12-01 00:18:30,965 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:18:31,157 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:18:32,556 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1591mS.
+2023-12-01 00:18:32,557 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 00:18:32,564 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:19:10,071 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:19:10,876 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 733464312 Bytes (1073741824)
+2023-12-01 00:19:10,970 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749099480 Bytes (1073741824)
+2023-12-01 00:19:11,963 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 815779576 Bytes (1073741824)
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:19:12,499 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:19:12,500 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:19:12,517 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:19:12,517 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:19:12,517 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:19:12,517 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:19:12,517 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:19:12,517 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:19:12,517 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:19:12,517 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:19:12,518 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:19:12,519 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:19:12,718 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:19:12,899 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:19:12,944 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:19:13,208 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:19:13,448 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:19:13,462 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:19:13,657 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:19:13,663 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:19:13,741 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:19:13,747 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:19:13,819 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:19:13,824 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:19:13,889 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:19:13,895 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:19:13,977 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:19:13,984 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:19:14,065 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:19:14,071 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:19:14,182 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:19:14,187 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:19:14,262 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:19:14,268 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:19:14,341 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:19:14,350 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:19:14,361 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:19:14,467 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:19:14,475 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:19:14,556 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:19:14,564 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:19:14,645 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:19:14,654 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:19:14,731 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:19:14,747 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:19:14,828 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:19:14,835 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:19:14,905 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:19:14,924 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:19:15,010 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:19:15,018 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:19:15,112 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:19:15,119 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:19:15,192 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:19:15,212 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:19:15,319 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:19:15,340 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:19:15,424 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:19:15,441 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:19:15,575 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:19:15,582 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:19:15,660 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:19:15,694 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:19:15,831 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:19:15,840 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:19:15,916 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:19:15,948 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:19:16,184 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:19:16,192 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:19:16,311 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:19:16,335 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:19:16,443 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:19:16,474 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:19:16,668 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:19:16,706 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:19:16,707 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:19:16,736 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:19:16,885 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:19:16,908 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:19:17,207 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:19:18,458 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 593mS.
+2023-12-01 00:19:18,466 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:19:18,828 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:19:21,389 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2923mS.
+2023-12-01 00:19:21,390 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:19:21,401 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:46:46,937 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:49:10,727 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:49:12,091 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 808825832 Bytes (1073741824)
+2023-12-01 00:49:12,161 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 823892616 Bytes (1073741824)
+2023-12-01 00:49:12,832 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 853252768 Bytes (1073741824)
+2023-12-01 00:49:13,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:49:13,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:49:13,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:49:13,127 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:49:13,142 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:49:13,142 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:49:13,142 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:49:13,142 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:49:13,143 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:49:13,264 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:49:13,374 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:49:13,393 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:49:13,503 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:49:13,632 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:49:13,640 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:49:13,719 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:49:13,723 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:49:13,777 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:49:13,781 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:49:13,828 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:49:13,832 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:49:13,877 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:49:13,881 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:49:13,939 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:49:13,942 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:49:13,995 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:49:13,998 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:49:14,056 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:49:14,060 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:49:14,124 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:49:14,127 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:49:14,176 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:49:14,183 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:49:14,192 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:49:14,277 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:49:14,282 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:49:14,330 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:49:14,335 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:49:14,387 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:49:14,392 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:49:14,441 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:49:14,453 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:49:14,508 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:49:14,513 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:49:14,561 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:49:14,573 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:49:14,637 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:49:14,644 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:49:14,713 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:49:14,720 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:49:14,781 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:49:14,795 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:49:14,899 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:49:14,915 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:49:15,001 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:49:15,014 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:49:15,093 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:49:15,098 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:49:15,152 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:49:15,174 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:49:15,330 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:49:15,336 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:49:15,385 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:49:15,403 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:49:15,512 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:49:15,516 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:49:15,563 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:49:15,575 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:49:15,630 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:49:15,648 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:49:15,744 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:49:15,768 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:49:15,769 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:49:15,786 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:49:15,865 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:49:15,878 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:49:16,009 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:49:16,896 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 451mS.
+2023-12-01 00:49:16,902 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:49:17,105 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:49:18,785 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1883mS.
+2023-12-01 00:49:18,786 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:49:18,792 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:54:13,672 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:54:15,209 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 620504808 Bytes (1073741824)
+2023-12-01 00:54:15,282 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 635711208 Bytes (1073741824)
+2023-12-01 00:54:15,892 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 666642152 Bytes (1073741824)
+2023-12-01 00:54:16,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:54:16,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:54:16,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:54:16,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:54:16,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:54:16,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:54:16,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:54:16,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:54:16,122 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:54:16,123 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:54:16,134 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:54:16,135 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:54:16,135 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:54:16,135 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:54:16,224 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:54:16,300 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:54:16,317 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:54:16,386 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:54:16,501 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:54:16,529 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:54:16,597 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:54:16,600 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:54:16,658 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:54:16,661 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:54:16,709 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:54:16,714 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:54:16,762 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:54:16,767 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:54:16,831 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:54:16,836 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:54:16,925 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:54:16,929 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:54:16,995 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:54:16,999 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:54:17,051 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:54:17,055 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:54:18,731 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:54:18,737 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:54:18,745 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:54:18,818 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:54:18,823 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:54:18,869 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:54:18,874 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:54:18,920 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:54:18,925 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:54:18,973 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:54:18,985 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:54:19,034 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:54:19,039 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:54:19,090 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:54:19,102 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:54:19,151 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:54:19,156 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:54:19,205 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:54:19,210 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:54:19,257 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:54:19,270 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:54:19,340 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:54:19,353 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:54:19,406 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:54:19,419 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:54:19,517 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:54:19,521 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:54:19,569 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:54:19,593 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:54:19,720 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:54:19,727 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:54:19,821 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:54:19,845 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:54:19,954 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:54:19,958 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:54:20,003 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:54:20,016 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:54:20,070 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:54:20,087 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:54:20,171 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:54:20,191 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:54:20,192 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:54:20,208 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:54:20,282 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:54:20,297 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:54:20,500 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:54:21,369 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 457mS.
+2023-12-01 00:54:21,376 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:54:21,590 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:54:22,983 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1607mS.
+2023-12-01 00:54:22,984 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 00:54:22,990 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:55:15,771 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:55:16,412 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 814220920 Bytes (1073741824)
+2023-12-01 00:55:16,489 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 829949560 Bytes (1073741824)
+2023-12-01 00:55:17,146 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 663055256 Bytes (1073741824)
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:55:17,431 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:55:17,432 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:55:17,432 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:55:17,432 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:55:17,445 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:55:17,446 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:55:17,551 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:55:17,650 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:55:17,670 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:55:17,757 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:55:17,863 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:55:17,870 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:55:17,945 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:55:17,949 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:55:18,023 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:55:18,027 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:55:18,136 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:55:18,140 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:55:18,199 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:55:18,203 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:55:18,274 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:55:18,279 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:55:18,331 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:55:18,335 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:55:18,398 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:55:18,402 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:55:18,460 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:55:18,464 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:55:18,524 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:55:18,534 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:55:18,543 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:55:18,618 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:55:18,623 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:55:18,689 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:55:18,695 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:55:18,744 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:55:18,749 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:55:18,797 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:55:18,809 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:55:18,859 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:55:18,864 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:55:18,923 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:55:18,935 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:55:18,986 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:55:18,991 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:55:19,039 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:55:19,045 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:55:19,094 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:55:19,107 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:55:19,184 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:55:19,197 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:55:19,252 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:55:19,265 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:55:19,353 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:55:19,357 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:55:19,406 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:55:19,428 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:55:19,554 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:55:19,560 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:55:19,622 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:55:19,641 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:55:19,763 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:55:19,768 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:55:19,822 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:55:19,833 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:55:19,891 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:55:19,908 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:55:19,997 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:55:20,019 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:55:20,020 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:55:20,036 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:55:20,105 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:55:20,119 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:55:20,246 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:55:21,150 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 485mS.
+2023-12-01 00:55:21,156 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:55:21,387 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:55:22,906 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1750mS.
+2023-12-01 00:55:22,907 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 00:55:22,913 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:56:37,501 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:56:37,901 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 756660696 Bytes (1073741824)
+2023-12-01 00:56:37,966 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 772389336 Bytes (1073741824)
+2023-12-01 00:56:38,563 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 830061016 Bytes (1073741824)
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:56:38,823 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:56:38,824 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:56:38,836 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:56:38,837 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:56:38,956 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:56:39,069 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:56:39,093 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:56:39,177 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:56:39,285 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:56:39,291 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:56:39,362 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:56:39,365 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:56:39,436 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:56:39,439 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:56:39,498 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:56:39,502 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:56:39,575 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:56:39,580 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:56:39,657 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:56:39,661 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:56:39,715 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:56:39,720 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:56:39,776 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:56:39,780 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:56:39,834 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:56:39,838 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:56:39,890 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:56:39,896 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:56:39,903 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:56:39,971 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:56:39,977 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:56:40,026 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:56:40,031 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:56:40,080 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:56:40,086 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:56:40,144 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:56:40,157 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:56:40,211 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:56:40,216 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:56:40,265 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:56:40,278 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:56:40,333 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:56:40,339 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:56:40,387 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:56:40,393 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:56:40,439 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:56:40,453 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:56:40,543 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:56:40,556 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:56:40,623 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:56:40,641 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:56:40,745 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:56:40,748 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:56:40,805 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:56:40,829 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:56:40,927 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:56:40,934 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:56:41,003 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:56:41,028 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:56:41,127 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:56:41,132 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:56:41,179 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:56:41,190 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:56:41,251 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:56:41,270 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:56:41,353 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:56:41,374 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:56:41,374 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:56:41,389 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:56:41,454 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:56:41,468 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:56:41,606 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:56:42,413 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 460mS.
+2023-12-01 00:56:42,420 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:56:42,655 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:56:44,083 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1663mS.
+2023-12-01 00:56:44,084 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:56:44,089 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 00:58:05,032 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 00:58:05,897 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 734430328 Bytes (1073741824)
+2023-12-01 00:58:05,965 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749636728 Bytes (1073741824)
+2023-12-01 00:58:06,581 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 780567672 Bytes (1073741824)
+2023-12-01 00:58:06,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 00:58:06,827 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 00:58:06,828 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 00:58:06,828 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 00:58:06,854 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 00:58:06,854 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:58:06,854 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 00:58:06,855 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 00:58:06,977 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 00:58:07,064 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 00:58:07,082 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 00:58:07,173 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 00:58:07,297 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:58:07,304 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:58:07,390 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:58:07,394 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:58:07,444 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:58:07,447 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:58:07,508 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:58:07,513 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:58:07,601 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:58:07,605 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:58:07,666 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:58:07,671 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:58:07,726 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:58:07,731 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:58:07,830 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:58:07,834 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:58:07,883 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:58:07,887 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:58:07,933 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:58:07,940 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 00:58:07,948 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 00:58:08,022 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 00:58:08,027 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 00:58:08,075 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 00:58:08,081 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 00:58:08,128 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 00:58:08,133 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 00:58:08,189 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 00:58:08,202 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 00:58:08,255 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 00:58:08,261 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 00:58:08,308 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 00:58:08,319 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 00:58:08,368 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 00:58:08,374 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 00:58:08,425 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 00:58:08,431 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 00:58:08,478 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 00:58:08,491 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 00:58:08,564 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 00:58:08,578 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 00:58:08,629 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 00:58:08,641 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 00:58:08,715 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 00:58:08,719 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 00:58:08,772 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 00:58:08,795 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 00:58:08,879 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 00:58:08,885 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 00:58:08,936 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 00:58:08,955 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 00:58:09,062 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 00:58:09,066 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 00:58:09,114 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 00:58:09,126 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 00:58:09,187 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 00:58:09,206 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 00:58:09,296 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 00:58:09,317 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 00:58:09,318 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 00:58:09,332 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 00:58:09,394 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 00:58:09,407 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 00:58:09,564 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 00:58:10,295 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 403mS.
+2023-12-01 00:58:10,302 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 00:58:10,544 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 00:58:11,907 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1605mS.
+2023-12-01 00:58:11,908 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 00:58:11,915 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-12-01 01:06:55,515 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 01:06:59,923 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-12-01 01:07:00,324 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 634366648 Bytes (1073741824)
+2023-12-01 01:07:00,401 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 650095288 Bytes (1073741824)
+2023-12-01 01:07:01,027 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 680503992 Bytes (1073741824)
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-01 01:07:01,277 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-01 01:07:01,278 [INFO] CodeGenerator:799 - code generatio: config db path: D:\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : hdmavalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream1
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Initvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:321 - 	 sub Args: 
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_5
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Modevalue: DMA_CIRCULAR
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Lockvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Lockvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Statevalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Statevalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : Parentvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : Parentvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2023-12-01 01:07:01,290 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2023-12-01 01:07:01,383 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp_save
+2023-12-01 01:07:01,470 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\license.tmp
+2023-12-01 01:07:01,486 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp_save
+2023-12-01 01:07:01,561 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\gpio.tmp
+2023-12-01 01:07:01,698 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 01:07:01,705 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 01:07:01,779 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 01:07:01,783 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 01:07:01,838 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 01:07:01,842 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 01:07:01,894 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 01:07:01,899 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 01:07:01,955 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 01:07:01,959 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 01:07:02,069 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 01:07:02,074 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 01:07:02,150 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 01:07:02,156 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 01:07:02,233 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 01:07:02,237 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 01:07:02,291 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 01:07:02,295 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 01:07:02,343 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 01:07:02,349 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-12-01 01:07:02,357 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp_save
+2023-12-01 01:07:02,478 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_inc.tmp
+2023-12-01 01:07:02,485 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-12-01 01:07:02,535 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelInit.tmp
+2023-12-01 01:07:02,541 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-12-01 01:07:02,595 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_kernelStart.tmp
+2023-12-01 01:07:02,601 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp_save
+2023-12-01 01:07:02,651 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_typedefs.tmp
+2023-12-01 01:07:02,664 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp_save
+2023-12-01 01:07:02,717 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_vars.tmp
+2023-12-01 01:07:02,722 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp_save
+2023-12-01 01:07:02,779 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_pfp.tmp
+2023-12-01 01:07:02,794 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-12-01 01:07:02,852 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_obj_creat.tmp
+2023-12-01 01:07:02,857 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp_save
+2023-12-01 01:07:02,930 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_default_thread.tmp
+2023-12-01 01:07:02,936 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp_save
+2023-12-01 01:07:03,003 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\rtos_threads.tmp
+2023-12-01 01:07:03,017 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h_save
+2023-12-01 01:07:03,184 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\FreeRTOSConfig.h
+2023-12-01 01:07:03,201 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c_save
+2023-12-01 01:07:03,259 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\freertos.c
+2023-12-01 01:07:03,273 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp_save
+2023-12-01 01:07:03,348 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma.tmp
+2023-12-01 01:07:03,351 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp_save
+2023-12-01 01:07:03,402 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\dma_GV.tmp
+2023-12-01 01:07:03,424 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c_save
+2023-12-01 01:07:03,589 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_it.c
+2023-12-01 01:07:03,594 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h_save
+2023-12-01 01:07:03,643 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_it.h
+2023-12-01 01:07:03,662 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-01 01:07:03,794 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_msp.c
+2023-12-01 01:07:03,798 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp_save
+2023-12-01 01:07:03,850 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\MXTmpFiles\system.tmp
+2023-12-01 01:07:03,862 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-12-01 01:07:03,919 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-12-01 01:07:03,939 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-01 01:07:04,024 [INFO] CodeEngine:335 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-01 01:07:04,044 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-12-01 01:07:04,045 [WARN] CodeGenerator:3764 - IP not found : null
+2023-12-01 01:07:04,059 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h_save
+2023-12-01 01:07:04,132 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Inc\main.h
+2023-12-01 01:07:04,145 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c_save
+2023-12-01 01:07:04,277 [INFO] CodeEngine:279 - Generated code: D:\Rangefinder\Rangefinder_STM_WS\Rangefinder_V3\Core\Src\main.c
+2023-12-01 01:07:05,160 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 444mS.
+2023-12-01 01:07:05,167 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-12-01 01:07:05,365 [INFO] ConfigFileManager:1457 - The Die is : DIE431
+2023-12-01 01:07:06,717 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1551mS.
+2023-12-01 01:07:06,718 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-12-01 01:07:06,725 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
